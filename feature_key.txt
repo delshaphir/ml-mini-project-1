@@ -1,0 +1,129 @@
+1: age first quartile
+2: age second quartile
+3: age third quartile
+4: age fourth quartile
+5: age not given
+6: workclass private
+7: workclass self-emp-not-inc
+8: workclass self-emp-inc
+9: workclass federal-gov
+10: workclass local-gov
+11: workclass state-gov
+12: workclass without-pay
+13: workclass never-worked
+14: fnlwgt first quartile
+15: fnlwgt second quartile
+16: fnlwgt third quartile
+17: fnlwgt fourth quartile
+18: fnlwgt not given
+19: education bachelors
+20: education some-college
+21: education 11th
+22: education hs-grad
+23: education prof-school
+24: education assoc-acdm
+25: education assoc-voc
+26: education 9th
+27: education 7th-8th
+28: education 12th
+29: education masters
+30: education 1st-4th
+31: education 10th
+32: education doctorate
+33: education 5th-6th
+34: education preschool
+35: education-num first quartile
+36: education-num second quartile
+37: education-num third quartile
+38: education-num fourth quartile
+39: education-num not given
+40: marital-status married-civ-spouse
+41: marital-status divorced
+42: marital-status never-married
+43: marital-status separated
+44: marital-status widowed
+45: marital-status married-spouse-absent
+46: marital-status married-af-spouse
+47: occupation tech-support
+48: occupation craft-repair
+49: occupation other-service
+50: occupation sales
+51: occupation exec-managerial
+52: occupation prof-specialty
+53: occupation handlers-cleaners
+54: occupation machine-op-inspct
+55: occupation adm-clerical
+56: occupation farming-fishing
+57: occupation transport-moving
+58: occupation priv-house-serv
+59: occupation protective-serv
+60: occupation armed-forces
+61: relationship wife
+62: relationship own-child
+63: relationship husband
+64: relationship not-in-family
+65: relationship other-relative
+66: relationship unmarried
+67: race white
+68: race asian-pac-islander
+69: race amer-indian-eskimo
+70: race other
+71: race black
+72: sex female
+73: sex male
+74: capital-gain first quartile
+75: capital-gain second quartile
+76: capital-gain third quartile
+77: capital-gain fourth quartile
+78: capital-gain not given
+79: capital-loss first quartile
+80: capital-loss second quartile
+81: capital-loss third quartile
+82: capital-loss fourth quartile
+83: capital-loss not given
+84: hours-per-week first quartile
+85: hours-per-week second quartile
+86: hours-per-week third quartile
+87: hours-per-week fourth quartile
+88: hours-per-week not given
+89: native-country united-states
+90: native-country cambodia
+91: native-country england
+92: native-country puerto-rico
+93: native-country canada
+94: native-country germany
+95: native-country outlying-us(guam-usvi-etc)
+96: native-country india
+97: native-country japan
+98: native-country greece
+99: native-country south
+100: native-country china
+101: native-country cuba
+102: native-country iran
+103: native-country honduras
+104: native-country philippines
+105: native-country italy
+106: native-country poland
+107: native-country jamaica
+108: native-country vietnam
+109: native-country mexico
+110: native-country portugal
+111: native-country ireland
+112: native-country france
+113: native-country dominican-republic
+114: native-country laos
+115: native-country ecuador
+116: native-country taiwan
+117: native-country haiti
+118: native-country columbia
+119: native-country hungary
+120: native-country guatemala
+121: native-country nicaragua
+122: native-country scotland
+123: native-country thailand
+124: native-country yugoslavia
+125: native-country el-salvador
+126: native-country trinadad&tobago
+127: native-country peru
+128: native-country hong
+129: native-country holand-netherlands
